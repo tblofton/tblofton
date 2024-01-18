@@ -13,8 +13,6 @@
  
 ⚡ I’m currently learning **Python, SQL, Power BI, and Tableau**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
 🌱 Fun fact **Plants respond to sound! (So always talk to your plants, they love it!)**
 
  </div>
