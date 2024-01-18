@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello!+👋;+I'm+Tivona+Brown!;" />
 </h1>
 
-<h3 align="center">A Future Data Analyst</h3>
+<h3 align="center">I'm a Student Data Analyst</h3>
 
 <br/>
 <div align="center">
